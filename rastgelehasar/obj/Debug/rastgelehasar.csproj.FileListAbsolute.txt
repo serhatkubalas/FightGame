@@ -1,0 +1,20 @@
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\bin\Debug\rastgelehasar.exe.config
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\bin\Debug\rastgelehasar.exe
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\bin\Debug\rastgelehasar.pdb
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.csprojResolveAssemblyReference.cache
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.Form1.resources
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.Properties.Resources.resources
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.csproj.GenerateResource.Cache
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.exe
+c:\users\beykent\documents\visual studio 2015\Projects\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.pdb
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\bin\Debug\rastgelehasar.exe.config
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.exe
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.pdb
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\bin\Debug\rastgelehasar.exe
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\bin\Debug\rastgelehasar.pdb
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.csprojResolveAssemblyReference.cache
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.Form1.resources
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.Properties.Resources.resources
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.csproj.GenerateResource.Cache
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.kerven.resources
+C:\Users\Beykent\Desktop\rastgelehasar\rastgelehasar\obj\Debug\rastgelehasar.razon.resources
